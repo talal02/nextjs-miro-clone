@@ -1,1 +1,8 @@
-# Miro Clone using NextJs, Tailwind, and TypeScript
+# Miro Clone
+
+<!-- Create a list of technologies used -->
+- NextJS
+- TypeScript
+- Tailwind CSS
+- Clerk
+- Convex
